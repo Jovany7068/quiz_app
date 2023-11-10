@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.quiz{
+    /* background-image: url(../img/manyppl.jpg); */
+    background-image: url(../img/bkgrd2.jpg);
+    background-repeat: no-repeat;
+     background-position: center;
+     background-size: cover;
+
+}
